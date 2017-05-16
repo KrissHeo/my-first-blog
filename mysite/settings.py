@@ -25,7 +25,7 @@ SECRET_KEY = 'e78jch5j$z37i5=eau7af6(-o&kfsb)g&ojo()mms6za(fwjt-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [krssh.pythonanywhere.com]
+ALLOWED_HOSTS = ['krssh.pythonanywhere.com']
 
 
 # Application definition
